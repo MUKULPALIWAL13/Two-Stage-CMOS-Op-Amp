@@ -29,7 +29,7 @@ The op-amp is designed completely using MOSFET devices without using any predefi
 *Complete transistor level schematic of the designed two stage CMOS operational amplifier.*
 
 
-(Add Circuit Diagram Here)
+
 
 
 ![Circuit Diagram](images/circuit.png)
@@ -180,7 +180,7 @@ LTspice command used:
 
 
 
-(Add DC Bias Image Here)
+
 
 
 ![DC Operating Point](images/dc_bias.png)
@@ -258,7 +258,7 @@ Therefore the total differential AC input:
 
 
 
-(Add AC Gain and Phase Response Here)
+
 
 
 ![AC Response](images/ac_response.png)
@@ -331,7 +331,7 @@ Input pulse applied:
 
 
 
-(Add Transient Waveform Here)
+
 
 
 ![Transient Response](images/transient_response.png)
